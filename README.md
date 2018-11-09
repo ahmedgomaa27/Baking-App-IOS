@@ -1,4 +1,3 @@
-# Baking-App-IOS
 ## Backing App Project with delicious desserts like Nutella pie , Brownies , yellow cake and cheese cake
 - this app is IOS version of [BackingApp](https://github.com/ahmedgomaa27/BakingApp).
 
